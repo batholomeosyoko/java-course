@@ -4,9 +4,9 @@ public class StudentInfo {
         int studentAge = 23;
         double studentGPA = 4.20;
 
-        System.out.println(studentName);
-        System.out.println(studentAge);
-        System.out.println(studentGPA);
+        System.out.println("student name: " + studentName);
+        System.out.println("student age: " + studentAge);
+        System.out.println("student GPA: " + studentGPA);
     }
 
 }
